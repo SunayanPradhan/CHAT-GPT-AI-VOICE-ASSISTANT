@@ -10,7 +10,7 @@ sudo apt-get install python3-pyaudio
 pip install speechrecognition
 pip install SpeechRecognition pyaudio
 pip install pyttsx3
-pip install openai
+pip install openai==0.28
 sudo apt-get install espeak
 sudo apt-get install flac
 ``````
